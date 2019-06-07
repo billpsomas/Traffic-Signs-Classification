@@ -1,4 +1,4 @@
-#Import the necassary libraries and files
+#Import all the necassary libraries and files
 import numpy as np
 from sklearn.utils import shuffle
 import os
