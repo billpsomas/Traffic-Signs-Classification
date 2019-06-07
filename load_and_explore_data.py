@@ -1,3 +1,4 @@
+#Import all the necessary libraries
 import pickle
 from pandas.io.parsers import read_csv
 import numpy as np
