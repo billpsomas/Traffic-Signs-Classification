@@ -15,9 +15,9 @@ Another important problem that is tackled with preprocessing and augmentation is
 
 As mentioned, the dataset that is used for the training phase in this project is highly unbalanced and, in many cases, different views of certain images could provide new patterns to improve the accuracy of the model on the testing set. The dataset originally contains 34.799 images of 43 classes. The augmentation process that was followed, which will be explained analytically below, enhanced the dataset to 258.227 images which is about 7.5 times the starting size. 
 
-The different filters that were used to achieve that are:
+The different filters that were used to achieve that are:<br />
 • Bilateral Filtering<br />
-• Gaussian Blur__
-• Rotation (±10 degrees)
-• Translation
+• Gaussian Blur<br />
+• Rotation (±10 degrees)<br />
+• Translation<br />
 • Perspective transformation
