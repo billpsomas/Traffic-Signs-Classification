@@ -20,4 +20,4 @@ The different filters that were used to achieve that are:<br />
 • Gaussian Blur<br />
 • Rotation (±10 degrees)<br />
 • Translation<br />
-• Perspective transformation
+• Perspective Transformation
